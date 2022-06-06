@@ -76,3 +76,20 @@ h1 {
   margin-left: 820px;
   display: inline-block;
 }
+
+#div1 {
+  width: 320px;
+  height: 80px;
+  overflow: auto;
+}
+
+#table1 {
+height: 200px;
+width: 30%;
+margin: auto;
+border-collapse: collapse;
+}
+td,th {
+  border: 1px solid black;
+  padding: 5px;
+}
