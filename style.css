@@ -1,0 +1,78 @@
+body {
+  padding: 0;
+  /* background-color: ; */
+}
+
+h1 {
+  text-align: center;
+}
+
+.totalcases p {
+  margin-top: 10%;
+  margin-left: 45%;
+  width: 150px;
+  border: 1px solid black;
+  font: 'arial';
+  font-size: 24px;
+  color: white;
+  background-color: black;
+}
+
+.totaldeath p {
+  margin-top: 0%;
+  margin-left: 38%;
+  width: 150px;
+  font: 'arial';
+  font-size: 24px;
+  color: white;
+  background-color: black;
+}
+
+.totalrecovered p {
+  margin-top: -5%;
+  margin-left: 52%;
+  width: 150px;
+  font: 'arial';
+  font-size: 22px;
+  color: white;
+  background-color: black;
+}
+#Line1 {
+  margin-top: 0%;
+  width: 40%;
+  margin-left: 200px;
+  display: inline-block;
+}
+#barplot1 {
+  margin-top: 0%;
+  width: 40%;
+  display: inline-block;
+}
+
+#barplot2 {
+  margin-top: 5%;
+  /* margin-left: 200px; */
+  width: 40%;
+  display: inline-block;
+}
+
+#Line2 {
+  margin-top: 5%;
+  width: 40%;
+  margin-left: 200px;
+  display: inline-block;
+}
+
+#barplot3 {
+  margin-top: 5%;
+  /* margin-left: 200px; */
+  width: 40%;
+  /* display: inline-block; */
+}
+
+#Line3 {
+  margin-top: 5%;
+  width: 40%;
+  margin-left: 820px;
+  display: inline-block;
+}
